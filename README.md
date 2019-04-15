@@ -93,4 +93,11 @@
  - vscode
  
  ## 截图
- menu.png menu_add.png menu_search.png role.png role2.png user.png user_add.png
+ 
+ [菜单](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/menu.png)
+ [菜单新增](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/menu_add.png)
+ [菜单查询](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/menu_search.png) 
+ [角色/授权](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/role.png)
+ [角色新增](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/role2.png)
+ [用户管理](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/user.png)
+ [用户新增](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/user_add.png)
