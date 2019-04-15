@@ -94,10 +94,10 @@
  
  ## 截图
  
- ![菜单](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/menu.png)
- ![菜单新增](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/menu_add.png)
- ![菜单查询](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/menu_search.png) 
- ![角色/授权](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/role.png)
- ![角色新增](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/role2.png)
- ![用户管理](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/user.png)
- ![用户新增](https://github.com/emacle/vue-php-admin/tree/master/vue-element-admin/static/screenshot/user_add.png)
+ ![菜单](vue-element-admin/static/screenshot/menu.png)
+ ![菜单新增](vue-element-admin/static/screenshot/menu_add.png)
+ ![菜单查询](vue-element-admin/static/screenshot/menu_search.png) 
+ ![角色/授权](vue-element-admin/static/screenshot/role.png)
+ ![角色新增](vue-element-admin/static/screenshot/role2.png)
+ ![用户管理](vue-element-admin/static/screenshot/user.png)
+ ![用户新增](vue-element-admin/static/screenshot/user_add.png)
