@@ -1,5 +1,7 @@
 # # vue-php-admin 项目说明
 
+通用的角色权限管理模板，没有动态切换角色功能，动态切换角色见 [vue-php-admin-V3](https://github.com/emacle/vue-php-admin-V3.git)
+
 基于 vue-element-admin 和 PHP CodeIgniter RESTful 实现，
 采用前后端分离架构的权限管理系统，PHP快速开发平台，目标是搭建一
 套简洁易用的快速解决方案，可以帮助用户有效降低项目开发难度和成本。
